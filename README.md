@@ -41,3 +41,6 @@ Commands in program (not on Terminal):
                   
                   Command: --Q
                   (quits the program)
+                  
+                  
+  Future Updates: 1. Will add file transfer ability for storing information.
