@@ -3,6 +3,7 @@ A basic Student-Management-System
 
 
 Usage: gcc -o sms main.c
+
 Run: ./sms --start
 
 Commands in program (not on Terminal): 
